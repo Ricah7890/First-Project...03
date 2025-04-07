@@ -1,0 +1,2 @@
+print ("Prime")
+print("zimbabwe")
